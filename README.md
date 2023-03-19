@@ -10,7 +10,8 @@
 <h4>Attendance AVG (1980/2019) because of data availability <h4>
 
 <h3>note <h3>
-<h3>data cleaning and transforming by #bigquery <h3>
-![image](https://user-images.githubusercontent.com/127942231/226185872-9f10c659-f5ae-4494-be93-06c74f247fd1.png)
+<h4>data cleaning and transforming by #bigquery <h4>
+<image src ="https://user-images.githubusercontent.com/127942231/226185872-9f10c659-f5ae-4494-be93-06c74f247fd1.png"/>
+<image src ="https://user-images.githubusercontent.com/127942231/226185926-395a7596-f8c6-49c8-836e-8ef7eee44e66.png"/>
 
-visualize by #tableau 
+<h4>visualize by #tableau <h4>
