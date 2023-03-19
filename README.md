@@ -11,5 +11,6 @@
 
 <h3>note <h3>
 <h3>data cleaning and transforming by #bigquery <h3>
+![image](https://user-images.githubusercontent.com/127942231/226185872-9f10c659-f5ae-4494-be93-06c74f247fd1.png)
 
 visualize by #tableau 
