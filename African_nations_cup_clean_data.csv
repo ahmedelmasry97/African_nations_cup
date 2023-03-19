@@ -1,0 +1,643 @@
+year,city,S_tage,tatal_goals,Attendance,match_period
+1957, Khartoum,SemiF,3,30000,90
+1957, Khartoum,Final,4,30000,90
+1959, Cairo,Final,4,30000,90
+1959, Cairo,Final,1,20000,90
+1959, Cairo,Final,3,30000,90
+1962, Addis Ababa,SemiF,6,30000,90
+1962, Addis Ababa,SemiF,3,30000,90
+1962, Addis Ababa,3-Pla,3,0,90
+1962, Addis Ababa,Final,6,0,120
+1963, Accra,Groups,2,0,90
+1963, Accra,Groups,2,0,90
+1963, Accra,Groups,6,0,90
+1963, Accra,3-Pla,3,0,90
+1963, Accra,Final,3,0,90
+1963, Kumasi,Groups,9,0,90
+1963, Kumasi,Groups,4,0,90
+1963, Kumasi,Groups,4,0,90
+1965, Bizerte,Groups,5,0,90
+1965, Sfax,Groups,3,0,90
+1965, Tunis,Groups,4,16000,90
+1965, Tunis,Groups,0,0,90
+1965, Tunis,Groups,6,0,90
+1965, Tunis,3-Pla,1,0,90
+1965, Sousse,Groups,7,0,90
+1965, Tunis,Final,5,0,120
+1968, Asmara,Groups,4,3000,90
+1968, Asmara,Groups,3,4000,90
+1968, Asmara,Groups,3,3000,90
+1968, Asmara,Groups,4,3000,90
+1968, Addis Ababa,Groups,3,20000,90
+1968, Addis Ababa,Groups,3,20000,90
+1968, Addis Ababa,Groups,1,25000,90
+1968, Addis Ababa,Groups,4,25000,90
+1968, Addis Ababa,Groups,3,15000,90
+1968, Addis Ababa,Groups,4,20000,90
+1968, Addis Ababa,3-Pla,1,10000,90
+1968, Addis Ababa,Final,1,25000,90
+1968, Asmara,SemiF,7,5000,120
+1968, Addis Ababa,SemiF,5,25000,120
+1970, Khartoum,Groups,5,14464,90
+1970, Khartoum,Groups,3,14464,90
+1970, Khartoum,Groups,5,9864,90
+1970, Khartoum,Groups,1,9864,90
+1970, Khartoum,Groups,7,9770,90
+1970, Khartoum,Groups,3,9770,90
+1970, Khartoum,3-Pla,4,12187,90
+1970, Khartoum,Final,1,102187,90
+1970, Wad Medani,Groups,2,7525,90
+1970, Wad Medani,Groups,5,7525,90
+1970, Wad Medani,Groups,4,3342,90
+1970, Wad Medani,Groups,2,3342,90
+1970, Wad Medani,Groups,2,3927,90
+1970, Wad Medani,Groups,1,3927,90
+1970, Khartoum,SemiF,3,12350,120
+1972, Yaound??,Groups,3,40000,90
+1972, Yaound??,Groups,6,0,90
+1972, Yaound??,Groups,2,0,90
+1972, Yaound??,Groups,2,0,90
+1972, Yaound??,SemiF,1,0,90
+1972, Yaound??,3-Pla,7,0,90
+1972, Yaound??,Final,5,0,90
+1972, Douala,Groups,2,0,90
+1972, Douala,Groups,2,0,90
+1972, Douala,Groups,6,0,90
+1972, Douala,SemiF,7,0,120
+1974, Alexandria,Groups,2,0,90
+1974, Alexandria,Groups,3,0,90
+1974, Alexandria,Groups,2,0,90
+1974, El-Mahalla El-Kubra,Groups,1,1000,90
+1974, El-Mahalla El-Kubra,Groups,4,0,90
+1974, El-Mahalla El-Kubra,Groups,1,0,90
+1974, Damanhour,Groups,3,0,90
+1974, Damanhour,Groups,5,0,90
+1974, Cairo,Groups,3,5000,90
+1974, Cairo,Groups,4,0,90
+1974, Cairo,Groups,2,0,90
+1974, Cairo,SemiF,5,0,90
+1974, Cairo,3-Pla,4,0,90
+1974, Cairo,Final,2,0,90
+1974, Alexandria,SemiF,6,0,120
+1974, Cairo,Final,4,0,120
+1976, Dire Dawa,Groups,6,0,90
+1976, Dire Dawa,Groups,4,0,90
+1976, Dire Dawa,Groups,1,0,90
+1976, Dire Dawa,Groups,4,0,90
+1976, Dire Dawa,Groups,2,0,90
+1976, Addis Ababa,Groups,2,30000,90
+1976, Addis Ababa,Groups,2,0,90
+1976, Addis Ababa,Groups,3,0,90
+1976, Addis Ababa,Groups,3,0,90
+1976, Addis Ababa,Groups,2,0,90
+1976, Addis Ababa,Groups,3,0,90
+1976, Addis Ababa,Groups,6,0,90
+1976, Addis Ababa,Groups,5,0,90
+1978, Accra,Groups,3,50000,90
+1978, Accra,Groups,6,50000,90
+1978, Accra,Groups,2,60000,90
+1978, Accra,Groups,2,60000,90
+1978, Accra,Groups,0,25000,90
+1978, Accra,Groups,3,25000,90
+1978, Accra,SemiF,1,40000,90
+1978, Accra,3-Pla,12,0,90
+1978, Accra,Final,2,0,90
+1978, Kumasi,Groups,2,50000,90
+1978, Kumasi,Groups,4,50000,90
+1978, Kumasi,Groups,4,20000,90
+1978, Kumasi,Groups,1,20000,90
+1978, Kumasi,Groups,0,10000,90
+1978, Kumasi,Groups,3,10000,90
+1978, Kumasi,SemiF,3,0,90
+1980, Ibadan,Groups,0,40000,90
+1980, Ibadan,Groups,2,40000,90
+1980, Ibadan,Groups,1,20000,90
+1980, Ibadan,Groups,5,20000,90
+1980, Ibadan,SemiF,4,5000,90
+1980, Lagos,Groups,4,80000,90
+1980, Lagos,Groups,3,80000,90
+1980, Lagos,Groups,3,55000,90
+1980, Lagos,Groups,0,55000,90
+1980, Lagos,Groups,2,70000,90
+1980, Lagos,Groups,1,70000,90
+1980, Lagos,SemiF,1,70000,90
+1980, Lagos,3-Pla,2,5000,90
+1980, Lagos,Final,3,85000,90
+1982, Tripoli,Groups,4,45200,90
+1982, Tripoli,Groups,2,45000,90
+1982, Tripoli,Groups,0,40000,90
+1982, Tripoli,Groups,2,40000,90
+1982, Tripoli,Groups,1,40000,90
+1982, Tripoli,SemiF,3,50000,90
+1982, Tripoli,3-Pla,2,2000,90
+1982, Tripoli,Final,2,50000,90
+1982, Benghazi,Groups,3,5000,90
+1982, Benghazi,Groups,1,5000,90
+1982, Benghazi,Groups,3,5000,90
+1982, Benghazi,Groups,0,5000,90
+1982, Benghazi,SemiF,5,5000,120
+1984, Bouak??,Groups,3,10000,90
+1984, Bouak??,Groups,3,10000,90
+1984, Bouak??,Groups,4,15000,90
+1984, Bouak??,Groups,2,15000,90
+1984, Bouak??,Groups,0,3000,90
+1984, Bouak??,Groups,1,3000,90
+1984, Abidjan,Groups,3,50000,90
+1984, Abidjan,Groups,1,50000,90
+1984, Abidjan,Groups,5,15000,90
+1984, Abidjan,Groups,3,40000,90
+1984, Abidjan,Groups,0,40000,90
+1984, Abidjan,Groups,2,40000,90
+1984, Abidjan,3-Pla,4,500,90
+1984, Abidjan,Final,4,27456,90
+1984, Abidjan,SemiF,4,15000,Penalties
+1984, Bouak??,SemiF,0,15000,Penalties
+1986, Alexandria,Groups,0,12000,90
+1986, Alexandria,Groups,5,20000,90
+1986, Alexandria,Groups,0,4000,90
+1986, Alexandria,Groups,2,8000,90
+1986, Alexandria,Groups,1,5000,90
+1986, Alexandria,Groups,5,10000,90
+1986, Alexandria,SemiF,1,12000,90
+1986, Cairo,Groups,1,45000,90
+1986, Cairo,Groups,3,20000,90
+1986, Cairo,Groups,2,30000,90
+1986, Cairo,Groups,2,50000,90
+1986, Cairo,Groups,1,15000,90
+1986, Cairo,Groups,2,55000,90
+1986, Cairo,SemiF,1,95000,90
+1986, Cairo,3-Pla,5,1000,90
+1986, Cairo,Final,0,120000,90
+1988, Casablanca,Groups,2,80000,90
+1988, Casablanca,Groups,2,40000,90
+1988, Casablanca,Groups,2,45000,90
+1988, Casablanca,Groups,1,78000,90
+1988, Casablanca,Groups,1,75000,90
+1988, Casablanca,Groups,0,80000,90
+1988, Casablanca,SemiF,1,45000,90
+1988, Casablanca,Final,1,50000,90
+1988, Rabat,Groups,1,5000,90
+1988, Rabat,Groups,3,4000,90
+1988, Rabat,Groups,2,13000,90
+1988, Rabat,Groups,3,12000,90
+1988, Rabat,Groups,0,25000,90
+1988, Rabat,Groups,0,30000,90
+1988, Casablanca,3-Pla,2,10000,Penalties
+1988, Rabat,SemiF,2,35000,Penalties
+1990, Annaba,Groups,1,25000,90
+1990, Annaba,Groups,0,13000,90
+1990, Annaba,Groups,1,11000,90
+1990, Annaba,Groups,2,22000,90
+1990, Annaba,Groups,0,18000,90
+1990, Annaba,Groups,2,13000,90
+1990, Annaba,SemiF,2,27000,90
+1990, Algiers,Groups,6,85000,90
+1990, Algiers,Groups,4,14000,90
+1990, Algiers,Groups,1,47000,90
+1990, Algiers,Groups,3,86000,90
+1990, Algiers,Groups,1,86000,90
+1990, Algiers,Groups,2,86000,90
+1990, Algiers,SemiF,3,88000,90
+1990, Algiers,3-Pla,1,33000,90
+1990, Algiers,Final,1,105032,90
+1992, Dakar,Groups,3,60000,90
+1992, Dakar,Groups,3,5000,90
+1992, Dakar,Groups,3,50000,90
+1992, Dakar,Groups,1,60000,90
+1992, Dakar,Groups,2,5000,90
+1992, Dakar,Groups,2,10000,90
+1992, Dakar,Qar-F,1,10000,90
+1992, Dakar,Qar-F,1,35000,90
+1992, Dakar,Qar-F,3,15000,90
+1992, Dakar,SemiF,3,30000,90
+1992, Dakar,3-Pla,3,2000,90
+1992, Ziguinchor,Groups,3,5000,90
+1992, Ziguinchor,Groups,0,5000,90
+1992, Ziguinchor,Groups,2,5000,90
+1992, Ziguinchor,Groups,1,5000,90
+1992, Dakar,SemiF,0,35000,Penalties
+1992, Dakar,Qar-F,1,3000,Penalties
+1992, Dakar,Final,0,47500,Penalties
+1994, Tunis,Groups,2,45000,90
+1994, Tunis,Groups,1,8000,90
+1994, Tunis,Groups,2,45000,90
+1994, Tunis,Groups,3,30000,90
+1994, Tunis,Groups,0,30000,90
+1994, Tunis,Qar-F,2,2000,90
+1994, Tunis,Qar-F,1,3000,90
+1994, Tunis,SemiF,4,2000,90
+1994, Tunis,3-Pla,4,15000,90
+1994, Tunis,Final,3,25000,90
+1994, Tunis,Groups,4,6000,90
+1994, Sousse,Groups,4,10000,90
+1994, Sousse,Groups,0,6000,90
+1994, Sousse,Groups,1,6000,90
+1994, Sousse,Groups,1,10000,90
+1994, Sousse,Groups,3,6000,90
+1994, Sousse,Groups,1,6000,90
+1994, Sousse,Qar-F,1,8000,90
+1994, Sousse,Qar-F,3,8000,90
+1994, Tunis,SemiF,4,2000,Penalties
+1996, Johannesburg,Groups,3,75000,90
+1996, Johannesburg,Groups,3,6000,90
+1996, Johannesburg,Groups,3,4000,90
+1996, Johannesburg,Groups,1,28000,90
+1996, Johannesburg,Groups,1,20000,90
+1996, Johannesburg,Groups,2,3000,90
+1996, Johannesburg,Qar-F,3,80000,90
+1996, Johannesburg,SemiF,3,75000,90
+1996, Johannesburg,3-Pla,1,80000,90
+1996, Johannesburg,Final,2,80000,90
+1996, Port Elizabeth,Groups,3,180,90
+1996, Port Elizabeth,Groups,2,8000,90
+1996, Port Elizabeth,Groups,2,1000,90
+1996, Port Elizabeth,Groups,3,1000,90
+1996, Port Elizabeth,Groups,1,500,90
+1996, Port Elizabeth,Groups,4,1000,90
+1996, Port Elizabeth,Qar-F,1,8000,90
+1996, Bloemfontein,Groups,0,9000,90
+1996, Bloemfontein,Groups,3,1500,90
+1996, Bloemfontein,Groups,2,1500,90
+1996, Bloemfontein,Groups,6,2000,90
+1996, Bloemfontein,Groups,4,200,90
+1996, Bloemfontein,Groups,2,3500,90
+1996, Bloemfontein,Qar-F,4,8500,90
+1996, Durban,Groups,6,6000,90
+1996, Durban,Groups,3,5000,90
+1996, Durban,Groups,2,4000,90
+1996, Durban,SemiF,6,5000,90
+1996, Durban,Qar-F,2,4000,Penalties
+1998, Ouagadougou,Groups,1,3000,90
+1998, Ouagadougou,Groups,4,2000,90
+1998, Ouagadougou,Groups,3,1000,90
+1998, Ouagadougou,Groups,3,4000,90
+1998, Ouagadougou,Groups,3,1000,90
+1998, Ouagadougou,Groups,4,800,90
+1998, Bobo-Dioulasso,Groups,0,20000,90
+1998, Bobo-Dioulasso,Groups,7,20000,90
+1998, Bobo-Dioulasso,Groups,2,10000,90
+1998, Bobo-Dioulasso,Groups,6,2000,90
+1998, Ouagadougou,Groups,7,4000,90
+1998, Bobo-Dioulasso,Groups,5,9500,90
+1998, Bobo-Dioulasso,Groups,2,10000,90
+1998, Bobo-Dioulasso,Groups,2,20000,90
+1998, Bobo-Dioulasso,Groups,4,5000,90
+1998, Bobo-Dioulasso,Groups,3,3000,90
+1998, Bobo-Dioulasso,Groups,4,3000,90
+1998, Ouagadougou,Groups,1,500,90
+1998, Bobo-Dioulasso,Qar-F,1,5000,90
+1998, Ouagadougou,Qar-F,3,2000,90
+1998, Bobo-Dioulasso,SemiF,2,40000,90
+1998, Ouagadougou,Groups,1,30000,90
+1998, Ouagadougou,Groups,3,35000,90
+1998, Ouagadougou,Groups,1,40000,90
+1998, Ouagadougou,Groups,2,12000,90
+1998, Ouagadougou,Groups,3,3000,90
+1998, Ouagadougou,Groups,1,3000,90
+1998, Ouagadougou,Final,2,40000,90
+1998, Ouagadougou,SemiF,3,4000,120
+1998, Ouagadougou,Qar-F,0,20000,Penalties
+1998, Ouagadougou,3-Pla,8,25000,Penalties
+1998, Ouagadougou,Qar-F,2,35000,Penalties
+2000, Lagos,Groups,4,2000,90
+2000, Lagos,Groups,6,80000,90
+2000, Lagos,Groups,1,8000,90
+2000, Lagos,Groups,0,60000,90
+2000, Lagos,Groups,0,5000,90
+2000, Lagos,Groups,2,60000,90
+2000, Lagos,SemiF,2,60000,90
+2000, Kano,Groups,2,18000,90
+2000, Kano,Groups,4,12000,90
+2000, Kano,Groups,1,30000,90
+2000, Kano,Groups,2,5000,90
+2000, Kano,Groups,6,17000,90
+2000, Kano,Groups,1,12000,90
+2000, Kano,Qar-F,1,12000,90
+2000, Accra,Groups,2,45000,90
+2000, Accra,Groups,2,13000,90
+2000, Accra,Groups,2,30000,90
+2000, Accra,Groups,3,5000,90
+2000, Accra,Groups,2,40000,90
+2000, Accra,Groups,0,2000,90
+2000, Accra,Qar-F,3,15000,90
+2000, Accra,SemiF,3,6000,90
+2000, Kumasi,Groups,1,2000,90
+2000, Kumasi,Groups,4,20000,90
+2000, Kumasi,Groups,0,7000,90
+2000, Kumasi,Groups,1,3500,90
+2000, Kumasi,Groups,4,5000,90
+2000, Kumasi,Groups,2,2000,90
+2000, Kumasi,Qar-F,1,40000,90
+2000, Lagos,Qar-F,3,60000,120
+2000, Lagos,Final,4,60000,Penalties
+2000, Accra,3-Pla,4,1000,Penalties
+2002, S??gou,Groups,0,12000,90
+2002, S??gou,Groups,0,4000,90
+2002, S??gou,Groups,0,5000,90
+2002, S??gou,Groups,3,6000,90
+2002, S??gou,Groups,4,3000,90
+2002, Bamako,Groups,2,50000,90
+2002, Bamako,Groups,1,10000,90
+2002, Bamako,Groups,0,50000,90
+2002, Bamako,Groups,4,4000,90
+2002, Bamako,Groups,2,50000,90
+2002, Bamako,Qar-F,1,25000,90
+2002, Bamako,SemiF,3,50000,90
+2002, Mopti,Groups,1,9000,90
+2002, Mopti,Groups,3,15000,90
+2002, Mopti,3-Pla,1,15000,90
+2002, Bamako,Qar-F,2,25000,90
+2002, Bamako,Groups,1,20000,90
+2002, Bamako,Groups,0,6000,90
+2002, Bamako,Groups,1,3000,90
+2002, Bamako,Groups,1,20000,90
+2002, Bamako,Groups,3,10000,90
+2002, Sikasso,Groups,1,15000,90
+2002, Sikasso,Groups,0,15000,90
+2002, Sikasso,Groups,0,7000,90
+2002, Sikasso,Groups,3,6000,90
+2002, Sikasso,Qar-F,1,15000,90
+2002, Kayes,Groups,4,12000,90
+2002, Kayes,Groups,0,8000,90
+2002, Kayes,Qar-F,2,15000,90
+2002, Bamako,SemiF,3,20000,120
+2002, Bamako,Final,0,50000,Penalties
+2004, Tunis,Groups,3,2000,90
+2004, Tunis,Groups,0,2000,90
+2004, Tunis,Groups,4,1500,90
+2004, Tunis,Groups,2,7550,90
+2004, Tunis,Qar-F,3,1450,90
+2004, Bizerte,Groups,2,4000,90
+2004, Bizerte,Groups,1,700,90
+2004, Bizerte,Groups,4,6000,90
+2004, Bizerte,Groups,3,13500,90
+2004, Bizerte,Groups,3,4550,90
+2004, Rad??s,Groups,3,60000,90
+2004, Rad??s,Groups,3,60000,90
+2004, Rad??s,Groups,2,35000,90
+2004, Rades,Qar-F,1,57000,90
+2004, Rad??s,Final,3,65000,90
+2004, Sfax,Groups,3,22000,90
+2004, Sfax,Groups,8,15000,90
+2004, Sfax,Groups,2,12000,90
+2004, Sfax,Groups,4,20000,90
+2004, Sfax,Groups,3,15000,90
+2004, Monastir,Groups,0,20000,90
+2004, Monastir,Groups,1,15000,90
+2004, Monastir,Groups,4,15000,90
+2004, Monastir,Qar-F,3,14750,90
+2004, Monastir,3-Pla,3,2500,90
+2004, Sousse,Groups,2,20000,90
+2004, Sousse,Groups,3,15000,90
+2004, Sousse,Groups,3,10000,90
+2004, Sousse,Groups,2,6000,90
+2004, Sousse,SemiF,4,15000,90
+2004, Sfax,Qar-F,4,22000,120
+2004, Rad??s,SemiF,2,56000,Penalties
+2006, Ismailia,Groups,3,18500,90
+2006, Port Said,Groups,1,18000,90
+2006, Port Said,Groups,2,15000,90
+2006, Port Said,Groups,2,10000,90
+2006, Port Said,Groups,3,17000,90
+2006, Alexandria,Groups,1,4000,90
+2006, Alexandria,Groups,5,16000,90
+2006, Alexandria,Groups,2,10000,90
+2006, Alexandria,Groups,3,24000,90
+2006, Alexandria,Groups,2,10000,90
+2006, Alexandria,Groups,3,18000,90
+2006, Alexandria,Qar-F,5,17000,90
+2006, Alexandria,SemiF,1,20000,90
+2006, Cairo,Groups,3,65000,90
+2006, Cairo,Groups,1,8000,90
+2006, Cairo,Groups,3,42000,90
+2006, Cairo,Groups,0,67000,90
+2006, Cairo,Groups,4,74000,90
+2006, Cairo,Groups,5,4000,90
+2006, Cairo,Qar-F,5,74000,90
+2006, Cairo,SemiF,3,74100,90
+2006, Cairo,Groups,0,5000,90
+2006, Cairo,Groups,4,8000,90
+2006, Cairo,Groups,2,6000,90
+2006, Cairo,Groups,0,2000,90
+2006, Cairo,Groups,2,3000,90
+2006, Cairo,Groups,2,5000,90
+2006, Cairo,3-Pla,1,11354,90
+2006, Cairo,Final,0,74100,Penalties
+2006, Port Said,Qar-F,2,10000,Penalties
+2006, Cairo,Qar-F,2,4000,Penalties
+2008, Tamale,Groups,3,10000,90
+2008, Tamale,Groups,4,12000,90
+2008, Tamale,Groups,2,15000,90
+2008, Tamale,Groups,4,10000,90
+2008, Tamale,Groups,4,15000,90
+2008, Tamale,Groups,0,10000,90
+2008, Sekondi-Takoradi,Groups,1,20088,90
+2008, Sekondi-Takoradi,Groups,1,11000,90
+2008, Sekondi-Takoradi,Groups,5,13000,90
+2008, Sekondi-Takoradi,Groups,0,16000,90
+2008, Sekondi-Takoradi,Groups,2,4000,90
+2008, Sekondi,Qar-F,5,14000,90
+2008, Kumasi,Groups,6,42000,90
+2008, Kumasi,Groups,3,35000,90
+2008, Kumasi,Groups,6,10000,90
+2008, Kumasi,Groups,3,15000,90
+2008, Kumasi,Groups,2,2000,90
+2008, Kumasi,Groups,2,15000,90
+2008, Kumasi,Qar-F,3,6000,90
+2008, Kumasi,SemiF,5,30000,90
+2008, Kumasi,3-Pla,6,40000,90
+2008, Accra,Groups,3,35000,90
+2008, Accra,Groups,6,2000,90
+2008, Accra,Groups,5,15000,90
+2008, Accra,Groups,1,40000,90
+2008, Accra,Groups,2,40000,90
+2008, Accra,Groups,3,20000,90
+2008, Accra,Qar-F,3,45000,90
+2008, Accra,SemiF,1,40000,90
+2008, Accra,Final,1,35500,90
+2008, Sekondi-Takoradi,Groups,2,1000,90
+2008, Tamale,Qar-F,5,15000,120
+2010, Cabinda,Groups,4,21000,90
+2010, Cabinda,Groups,0,5000,90
+2010, Cabinda,Groups,4,23000,90
+2010, Luanda,Groups,8,45000,90
+2010, Luanda,Groups,3,1000,90
+2010, Luanda,Groups,1,4000,90
+2010, Luanda,Groups,2,48500,90
+2010, Luanda,Groups,0,40000,90
+2010, Luanda,Groups,1,8000,90
+2010, Luanda,Qar-F,1,50000,90
+2010, Luanda,SemiF,1,7500,90
+2010, Luanda,Final,1,45000,90
+2010, Benguela,Groups,4,18000,90
+2010, Benguela,Groups,4,15000,90
+2010, Benguela,Groups,1,8000,90
+2010, Benguela,Groups,2,16000,90
+2010, Benguela,Groups,2,12500,90
+2010, Benguela,Groups,3,11065,90
+2010, Benguela,SemiF,4,25000,90
+2010, Benguela,3-Pla,1,12000,90
+2010, Lubango,Groups,3,8050,90
+2010, Lubango,Groups,1,15000,90
+2010, Lubango,Groups,2,17000,90
+2010, Lubango,Groups,0,16000,90
+2010, Lubango,Groups,5,15000,90
+2010, Lubango,Groups,4,19000,90
+2010, Cabinda,Qar-F,5,10000,120
+2010, Benguela,Qar-F,4,12000,120
+2010, Lubango,Qar-F,0,10000,Penalties
+2010,,Groups,,0,Penalties
+2010,,Groups,,0,Penalties
+2010,,Groups,,0,Penalties
+2012, Bata,Qar-F,3,200,90
+2012, Bata,SemiF,1,12000,90
+2012, Libreville,SemiF,1,32000,90
+2012, Malabo,Qar-F,3,12500,90
+2012, Malabo,3-Pla,2,15000,90
+2012, Franceville,Qar-F,3,8000,120
+2012, Libreville,Qar-F,2,30000,Penalties
+2012, Libreville,Final,0,40000,Penalties
+2013, Johannesburg,Final,1,85000,90
+2013, Durban,SemiF,5,54000,90
+2013, Rustenburg,Qar-F,3,25000,90
+2013, Port Elizabeth,Qar-F,2,8000,90
+2013, Port Elizabeth,3-Pla,4,6000,90
+2013, Nelspruit,Qar-F,1,27000,120
+2013, Durban,Qar-F,2,45000,Penalties
+2013, Nelspruit,SemiF,2,35000,Penalties
+2015, Bata,Qar-F,6,31670,90
+2015, Bata,SemiF,4,30000,90
+2015, Malabo,Qar-F,3,14500,90
+2015, Malabo,Qar-F,4,15000,90
+2015, Malabo,SemiF,3,15520,90
+2015, Malabo,3-Pla,0,15520,90
+2015, Bata,Qar-F,3,41000,120
+2015, Bata,Final,0,32857,Penalties
+2017, Oyem,Groups,0,0,90
+2017, Oyem,Groups,1,0,90
+2017, Oyem,Groups,4,0,90
+2017, Oyem,Groups,4,0,90
+2017, Oyem,Groups,2,0,90
+2017, Oyem,Qar-F,3,0,90
+2017, Libreville,Groups,2,39230,90
+2017, Libreville,Groups,2,20720,90
+2017, Libreville,Groups,2,38250,90
+2017, Libreville,Groups,3,0,90
+2017, Libreville,Groups,0,0,90
+2017, Libreville,Groups,6,0,90
+2017, Libreville,Qar-F,2,0,90
+2017, Libreville,Final,3,0,90
+2017, Franceville,Groups,2,0,90
+2017, Franceville,Groups,4,0,90
+2017, Franceville,Groups,2,0,90
+2017, Franceville,Groups,3,0,90
+2017, Franceville,Groups,2,0,90
+2017, Franceville,SemiF,2,0,90
+2017, Port-Gentil,Groups,4,0,90
+2017, Port-Gentil,Groups,1,0,90
+2017, Port-Gentil,Groups,0,0,90
+2017, Port-Gentil,Qar-F,1,0,90
+2017, Port-Gentil,3-Pla,1,0,90
+2017, Libreville,SemiF,2,0,Penalties
+2017, Franceville,Qar-F,0,0,Penalties
+2019, Suez,Groups,2,7345,90
+2019, Suez,Groups,5,6202,90
+2019, Suez,Groups,2,16085,90
+2019, Suez,Groups,0,10120,90
+2019, Suez,Groups,0,7732,90
+2019, Suez,Groups,2,6905,90
+2019, Suez,Rou16,1,7672,90
+2019, Cairo,Groups,4,4364,90
+2019, Cairo,Groups,2,7249,90
+2019, Cairo,Groups,2,8071,90
+2019, Cairo,Groups,1,25765,90
+2019, Cairo,Groups,5,7233,90
+2019, Cairo,Groups,3,13224,90
+2019, Cairo,Groups,5,7530,90
+2019, Cairo,Rou16,3,8205,90
+2019, Cairo,Qar-F,1,5798,90
+2019, Cairo,Groups,2,5753,90
+2019, Cairo,Groups,3,8921,90
+2019, Cairo,Groups,1,6857,90
+2019, Cairo,Groups,1,4961,90
+2019, Cairo,Groups,1,27500,90
+2019, Cairo,Groups,1,16090,90
+2019, Cairo,Groups,1,12098,90
+2019, Cairo,Qar-F,3,7568,90
+2019, Cairo,3-Pla,1,6340,90
+2019, Ismailia,Groups,1,8135,90
+2019, Ismailia,Groups,2,5983,90
+2019, Ismailia,Groups,4,8094,90
+2019, Ismailia,Groups,0,16724,90
+2019, Ismailia,Groups,0,9212,90
+2019, Ismailia,Groups,0,14120,90
+2019, Alexandria,Groups,1,3192,90
+2019, Alexandria,Groups,4,5342,90
+2019, Alexandria,Groups,1,10388,90
+2019, Alexandria,Groups,1,4900,90
+2019, Alexandria,Groups,2,9895,90
+2019, Alexandria,Rou16,5,10000,90
+2019, Cairo,Groups,1,73299,90
+2019, Cairo,Groups,2,1083,90
+2019, Cairo,Groups,2,73589,90
+2019, Cairo,Groups,2,74219,90
+2019, Cairo,Groups,2,74566,90
+2019, Cairo,Rou16,1,6950,90
+2019, Cairo,Rou16,1,75000,90
+2019, Cairo,Qar-F,3,48343,90
+2019, Cairo,SemiF,3,49775,90
+2019, Cairo,Final,1,75000,90
+2019, Cairo,SemiF,1,9143,120
+2019, Cairo,Rou16,2,7500,Penalties
+2019, Suez,Qar-F,2,8233,Penalties
+2019, Ismailia,Rou16,2,8890,Penalties
+2019, Alexandria,Rou16,4,5890,Penalties
+2022,Yaound,Groups,3,0,90
+2022,Yaound,Groups,1,0,90
+2022,Bafoussam,Groups,1,0,90
+2022,Yaound,Groups,1,0,90
+2022,Garoua,Groups,1,0,90
+2022,Garoua,Groups,0,0,90
+2022,Douala,Groups,0,0,90
+2022,Douala,Groups,1,0,90
+2022,Limb,Groups,1,0,90
+2022,Limb??,Groups,1,0,90
+2022,Yaound,Groups,5,0,90
+2022,Yaound,Groups,1,0,90
+2022,Bafoussam,Groups,0,0,90
+2022,Bafoussam,Groups,3,0,90
+2022,Yaound,Groups,2,0,90
+2022,Yaound,Groups,2,0,90
+2022,Garoua,Groups,4,0,90
+2022,Garoua,Groups,1,0,90
+2022,Douala,Groups,4,0,90
+2022,Douala,Groups,1,0,90
+2022,Limb,Groups,2,0,90
+2022,Limb,Groups,4,0,90
+2022,Bafoussam,Groups,2,0,90
+2022,Yaound,Groups,2,0,90
+2022,Bafoussam,Groups,0,0,90
+2022,Yaound,Groups,3,0,90
+2022,Yaound,Groups,4,0,90
+2022,Garoua,Groups,5,0,90
+2022,Yaound,Groups,1,0,90
+2022,Garoua,Groups,2,0,90
+2022,Douala,Groups,4,0,90
+2022,Limb,Groups,1,0,90
+2022,Limb,Groups,1,0,90
+2022,Douala,Groups,2,0,90
+2022,Limb,Rou16,2,0,90
+2022,Garoua,Rou16,1,0,90
+2022,Yaound,Rou16,3,0,90
+2022,Bafoussam,Rou16,1,0,90
+2022,Bafoussam,Rou16,2,0,90
+2022,Limb,Rou16,0,0,90
+2022,Garoua,Qar-F,1,0,90
+2022,Douala,Qar-F,2,0,90
+2022,Yaound,Qar-F,4,0,90
+2022,Yaound,SemiF,4,0,90
+2022,Yaound,3-Pla,6,0,90
+2022,Douala,Rou16,0,0,Penalties
+2022,Yaound,SemiF,0,0,Penalties
+2022,Yaound,Final,0,0,Penalties
+2022,Yaound,Qar-F,3,0,120
